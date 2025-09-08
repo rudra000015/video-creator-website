@@ -368,7 +368,7 @@
 
         #c1 img {
             width: 100%;
-            height: clamp(200px, 30vh, 250px);
+        
             object-fit: cover;
 
             padding: clamp(10px, 2vw, 20px);
@@ -616,4 +616,5 @@
             }
         }
     
+
 
